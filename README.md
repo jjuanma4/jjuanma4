@@ -12,24 +12,24 @@
 
 ---
 
-## 👋 Sobre mí
+##  Sobre mí
 
 Tengo 19 años y vivo en Orellana la Vieja, Badajoz. Estoy en 2.º de DAM y cada día me gusta más programar. Me encanta el deporte, sobre todo el fútbol, y he trabajado de monitor en campamentos de verano y en la campaña agrícola durante cuatro veranos. Eso me ha enseñado a ser responsable, constante y a llevarme bien con todo tipo de gente.
 
-## 🎯 Qué busco
+##  Qué busco
 
 - Hacer las **prácticas (FCT)** en una empresa de desarrollo.
 - Conseguir un **primer puesto como desarrollador junior**.
 - Trabajar en un equipo donde pueda **seguir aprendiendo**.
 - Tengo **disponibilidad inmediata** y carnet de conducir.
 
-## 🛠️ Con qué trabajo
+##  Con qué trabajo
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📂 Mis proyectos
+##  Mis proyectos
 
 <table>
   <tr>
@@ -64,20 +64,20 @@ Tengo 19 años y vivo en Orellana la Vieja, Badajoz. Estoy en 2.º de DAM y cada
 
 </div>
 
-## 🎓 Formación
+##  Formación
 
 - **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM):** cursando 2.º
 - **Bachillerato Científico-Tecnológico:** finalizado
 
-## 💼 Experiencia
+##  Experiencia
 
 - **Monitor de fútbol en campamentos de verano:** entrenamientos y actividades con grupos de niños, coordinación con otros monitores y comunicación con las familias.
 - **Trabajador agrícola en la campaña de verano:** trabajo en equipo, con autonomía y cumpliendo horarios y objetivos.
 
-## 🌍 Idiomas
+##  Idiomas
 
 - Español: nativo
-- Inglés: nivel medio
+- Inglés: nivel medio-básico
 
 ## 📬 Contacto
 
