@@ -79,7 +79,7 @@ Tengo 19 años y vivo en Orellana la Vieja, Badajoz. Estoy en 2.º de DAM y cada
 - Español: nativo
 - Inglés: nivel medio-básico
 
-## 📬 Contacto
+##  Contacto
 
 📧 juanmacm2007@gmail.com · [LinkedIn](https://www.linkedin.com/in/juan-manuel-cuadrado-mu%C3%B1iz-395b6138a/) · [Portfolio](https://jjuanma4.github.io/portfolio/)
 
