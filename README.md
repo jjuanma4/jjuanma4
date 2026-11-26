@@ -81,6 +81,6 @@ Tengo 19 años y vivo en Orellana la Vieja, Badajoz. Estoy en 2.º de DAM y cada
 
 ##  Contacto
 
-📧 juanmacm2007@gmail.com · [LinkedIn](https://www.linkedin.com/in/juan-manuel-cuadrado-mu%C3%B1iz-395b6138a/) · [Portfolio](https://jjuanma4.github.io/portfolio/)
+ juanmacm2007@gmail.com · [LinkedIn](https://www.linkedin.com/in/juan-manuel-cuadrado-mu%C3%B1iz-395b6138a/) · [Portfolio](https://jjuanma4.github.io/portfolio/)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E8B04B,100:1C2E2B&height=120&section=footer)
